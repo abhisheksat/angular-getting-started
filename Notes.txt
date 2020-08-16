@@ -1,0 +1,34 @@
+Angular Notes
+
+- It is a JavaScript framework
+- Used to build client-side applications
+- Uses HTML, CSS and TypeScript
+- Why Angular?
+	* Makes HTML expressive (if conditions, for loops, local variables)
+	* Powerful Data Binding (Easily process user input and updates changes with data model)
+	* Modularity (Create reusable components)
+	* Built-in back-end connectivity (communicate with back-end business logic over the wire)
+
+- Angular v/s AngularJS
+	* It has fast initialization, change detection and display/rendering
+	* Modern concepts like components, classes, modules, decoraters
+	* Easy to use API
+
+- Structure of an Angular application
+	* Every app is a combination of components and services
+	* Every component is a mix of template, class, properties and methods
+	* Every app has a Angular root module that has several components
+	* A feature Angular module is child of the root angular module with its own set of components
+
+- Environment setup
+	* VSCode
+	* Node and npm
+	* Angular (framework and libraries)
+	* Angular CLI
+	* TypeScript
+
+- Application folder structure
+	* package.json: all the dependencies are located here
+	* src: all source files here
+	* src/app: all app related source files here
+	* src/app/: all sub feature related are separated directory wise
