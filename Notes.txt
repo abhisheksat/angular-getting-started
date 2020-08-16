@@ -42,4 +42,3 @@ Angular Notes
 	  in HTML and the corresponding template will be rendered in its place.
 	* Template is the HTML code associated with the selector. The class contains properties and methods.
 	  The properties can be included in the template through databinding.
-	* 
