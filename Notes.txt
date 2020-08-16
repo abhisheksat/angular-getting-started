@@ -32,3 +32,14 @@ Angular Notes
 	* src: all source files here
 	* src/app: all app related source files here
 	* src/app/: all sub feature related are separated directory wise
+	
+- Angular Components
+	* Angular app is a set of components
+	* Components work in harmony to create an application
+	* By convention, the root component of an Angular app is called as AppComponent
+	* @Component is an Angular decorater. It annotates a class as a decorater
+	* Every decorater has a selector and template. The selector is a directive (custom HTML tag). This can be used
+	  in HTML and the corresponding template will be rendered in its place.
+	* Template is the HTML code associated with the selector. The class contains properties and methods.
+	  The properties can be included in the template through databinding.
+	* 
